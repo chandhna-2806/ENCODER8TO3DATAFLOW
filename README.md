@@ -52,13 +52,15 @@ assign c= ( y1 | y3 | y5 | y7);
 endmodule
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
-![WhatsApp Image 2024-12-08 at 20 05 36_7892728d](https://github.com/user-attachments/assets/b06e04aa-ae7b-4901-a420-856deb345ced)
+![5 rtl](https://github.com/user-attachments/assets/1b67a258-97d8-4109-8471-9f9bc015c2b9)
+
 
 
 
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
-![WhatsApp Image 2024-12-08 at 20 05 25_7fb2bc2e](https://github.com/user-attachments/assets/1d42e631-1710-4e00-a015-9dfd92feaece)
+![5 td](https://github.com/user-attachments/assets/8526870d-a8fb-44dc-a25d-efaca95f97c2)
+
 
 
 
